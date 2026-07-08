@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Rider / IntelliJ
+.idea/
+**/.idea/
+*.DotSettings.user
+
+# .NET
+**/bin/
+**/obj/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store

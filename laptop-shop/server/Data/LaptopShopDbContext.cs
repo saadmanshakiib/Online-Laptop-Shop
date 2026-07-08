@@ -6,6 +6,7 @@ namespace LaptopShop.Api.Data;
 public class LaptopShopDbContext(DbContextOptions<LaptopShopDbContext> options) : DbContext(options)
 {
     public DbSet<Customer> Customers => Set<Customer>();
+    public DbSet<Laptop> laptops => Set<Laptop>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -1,5 +1,5 @@
 import { Route, Routes } from 'react-router-dom'
-import Homepage from './Homepage.jsx'
+import Homepage from './Components/Homepage.jsx'
 import SignInPage from './SignInPage.jsx'
 
 function AppRoutes() {

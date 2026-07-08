@@ -154,3 +154,4 @@
 /Users/saadman/Desktop/PROGRAMMING/Full Stack Projects/laptop-shop/server/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/saadman/Desktop/PROGRAMMING/Full Stack Projects/laptop-shop/server/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /Users/saadman/Desktop/PROGRAMMING/Full Stack Projects/laptop-shop/server/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saadman/Desktop/PROGRAMMING/Full Stack Projects/laptop-shop/server/obj/Debug/net10.0/LaptopShop.Api.sourcelink.json

@@ -11,6 +11,7 @@ import {
   Sparkles,
 } from 'lucide-react'
 import './App.css'
+import Homepage from "./Components/Homepage.jsx";
 
 function SignInPage() {
   const navigate = useNavigate()
@@ -86,9 +87,11 @@ function SignInPage() {
 
       const data = await response.json()
       setLoginError(data.message || 'No account found')
-    } catch {
+    }
+    catch {
       setLoginError('Unable to connect to the server')
-    } finally {
+    }
+    finally {
       setIsLoading(false)
     }
   }

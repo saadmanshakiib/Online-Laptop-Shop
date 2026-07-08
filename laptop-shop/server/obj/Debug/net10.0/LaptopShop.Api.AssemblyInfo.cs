@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaptopShop.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31253279f3d917d81594ee28d8897b9cab263a8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaptopShop.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaptopShop.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
